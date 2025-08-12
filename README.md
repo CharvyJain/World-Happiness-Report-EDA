@@ -15,11 +15,6 @@ To analyze and visualize the factors contributing to happiness across countries,
 - **NumPy** for numerical operations
 - **Matplotlib** and **Seaborn** for data visualization
 
-## Structure
-- `notebook.ipynb`: Jupyter Notebook containing the full analysis.
-- `data/`: Directory containing the dataset.
-- `README.md`: This file.
-
 ## Instructions
 1. Clone the repository.
 2. Install the required libraries.
